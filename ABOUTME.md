@@ -9,3 +9,4 @@ For video editing, my favourite software is Apple's Final Cut Pro, Adobe Premier
 
 I'm actually working on messenger app named "Taptic Chat", which is created in languages: React.JS, node.js and C#, and I'm looking for C# open-source projects in which I can create code.
 
+.
